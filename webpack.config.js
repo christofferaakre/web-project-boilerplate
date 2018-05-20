@@ -8,7 +8,8 @@ switch (process.env.NODE_ENV) {
         require('dotenv').config({ path: '.env.test' });
     case 'development':
         require('dotenv').config({ path: '.env.dev' });
-}
+    default:
+        break;
 
 module.exports = env => {
     const isProduction = env === 'production';

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loading renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "justifyContent": "center",
+    }
+  }
+>
+  <img
+    alt="loading"
+    src="images/loader.gif"
+  />
+</div>
+`;
