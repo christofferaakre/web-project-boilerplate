@@ -1,11 +1,8 @@
 import React from 'react';
-
-export const styles = {
-  container: {},
-};
+import classes from './App.scss';
 
 export const App = () => (
-  <div style={styles.container}>
+  <div className={classes.container}>
     This is the root (App.js) component. Use it to render other components/routes
   </div>
 );

@@ -2,18 +2,19 @@
 
 ### Includes necessary configuration for:
 
-* Webpack
-* Webpack dev-server
-* Babel
-* ESLint with appropriate rules
-* Enzyme and Jest
-* React
-* SASS/SCSS
-* A simple Express back-end
-* A simple Loading React component
-* An appropriate index.html file
-* Normalize.css
-* .env files for testing and development
+- Webpack
+- Webpack dev-server
+- Babel
+- ESLint with appropriate rules
+- Enzyme and Jest
+- React
+- SASS/SCSS
+- CSS Modules
+- A simple Express back-end
+- A simple Loading React component
+- An appropriate index.html file
+- Normalize.css
+- .env files for testing and development
 
 ### To get started:
 
